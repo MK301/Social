@@ -1,0 +1,10 @@
+{
+  "api_key": "your-api-key-here",
+  "database_url": "your-database-url",
+  "log_level": "INFO",
+  "server_port": 8080,
+   "feature_flags":{
+    "dark_mode":false,
+    "new_ui":true
+   }
+}
